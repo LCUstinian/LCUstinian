@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=LCUstinian&bg_color=auto&color=ffd580&line=65f207&point=2c42ed&area=true&hide_border=fals" width="96%" height="auto" >
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCUstinian)
+
 
 <p align="center"><img src="https://repobeats.axiom.co/api/embed/5708c01fc2970fa6f945a069e73acc7f9d70d90a.svg"/> </p>
 
