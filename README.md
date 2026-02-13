@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://repobeats.axiom.co/api/embed/5708c01fc2970fa6f945a069e73acc7f9d70d90a.svg"/> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DustNerd&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="DustNerd"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LCUstinian&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="LCUstinian"/></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCUstinian&theme=radical&layout=pie"/> </p><br>
 The breadth of knowledge determines the width of the attack's surface.<br>
